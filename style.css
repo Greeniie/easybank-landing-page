@@ -365,8 +365,8 @@ button {
   }
 
   .hamburger {
-    padding-top: 30px;
-    padding-right: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
     z-index: 3;
     display: block;
     cursor: pointer;
